@@ -118,7 +118,7 @@ const tanisha = {
 
 <!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/tanishagargcoder/tanishagargcoder/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 <p align="center"><i>⭐ From <a href="https://github.com/tanishagargcoder">tanishagargcoder</a> — let's build something that ships.</i></p>
