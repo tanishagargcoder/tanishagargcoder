@@ -16,21 +16,34 @@
 <!-- ═══════════════════════  NEOFETCH ABOUT  ═══════════════════════ -->
 ## 💻 `~/about-me`
 
+<table>
+<tr>
+<td width="26%" align="center" valign="top">
+  <img src="https://github.com/tanishagargcoder.png" width="180" alt="Tanisha Garg" />
+  <br/>
+  <sub><code>👩‍💻 @tanishagargcoder</code></sub>
+</td>
+<td width="74%" valign="top">
+
 ```bash
 tanisha@github:~$ neofetch
-        .--.          ────────────────────────────────────────
-       |o_o |         OS........: Human v22 (Coder Edition)
-       |:_/ |         HOST......: Bennett University · SCSET
-      //   \ \        KERNEL....: Full-Stack + AI/Cloud
-     (|     | )       SHELL.....: bash / zsh / pure vibes
-    /'\_   _/`\       EDITOR....: VS Code @ 2AM ☕
-    \___)=(___/       ────────────────────────────────────────
-    LANGUAGES..: JavaScript · TypeScript · Python · C++
-    BUILDING...: CloudPilot AI 🛰️  — AI agents that auto-fix cloud incidents
-    FOCUS......: LLMs · agent pipelines · cloud automation
-    ROLES......: GSSoC '25 Contributor · Secretary General @ Technotix BU
-    MOTTO......: > ship real things, automate the boring parts_
+    ──────────────────────────────────────────────
+    OS........: Human v22 (Coder Edition)
+    HOST......: Bennett University · SCSET
+    KERNEL....: Full-Stack + AI/Cloud
+    SHELL.....: bash / zsh / pure vibes
+    EDITOR....: VS Code @ 2AM ☕
+    ──────────────────────────────────────────────
+    LANGUAGES.: JavaScript · TypeScript · Python · C++
+    BUILDING..: CloudPilot AI 🛰️  (AI agents that auto-fix cloud incidents)
+    FOCUS.....: LLMs · agent pipelines · cloud automation
+    ROLES.....: GSSoC '25 · Secretary General @ Technotix BU
+    MOTTO.....: > ship real things, automate the boring parts_
 ```
+
+</td>
+</tr>
+</table>
 
 <!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
 ## 🧰 `~/tech-stack`
