@@ -1,10 +1,5 @@
-<!-- ═══════════════════════  MATRIX HERO  ═══════════════════════ -->
-<p align="center">
-  <img width="100%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="matrix code rain" />
-</p>
-
-<h1 align="center">👩‍💻 Tanisha Garg</h1>
-<h3 align="center">💚 Full-Stack Developer · AI &amp; Cloud Hacker 💚</h3>
+<!-- ═══════════════════════  BANNER  ═══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:043b1a,100:00c853&text=Tanisha%20Garg&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Engineer&descSize=18&descAlignY=60"/>
 
 <!-- ═══════════════════════  TERMINAL BOOT  ═══════════════════════ -->
 <p align="center">
@@ -21,15 +16,6 @@
 <!-- ═══════════════════════  NEOFETCH ABOUT  ═══════════════════════ -->
 ## 💻 `~/about-me`
 
-<table>
-<tr>
-<td width="26%" align="center" valign="top">
-  <img src="https://github.com/tanishagargcoder.png" width="180" alt="Tanisha Garg" />
-  <br/>
-  <sub><code>👩‍💻 @tanishagargcoder</code></sub>
-</td>
-<td width="74%" valign="top">
-
 ```bash
 tanisha@github:~$ neofetch
     ──────────────────────────────────────────────
@@ -45,10 +31,6 @@ tanisha@github:~$ neofetch
     ROLES.....: GSSoC '25 · Secretary General @ Technotix BU
     MOTTO.....: > ship real things, automate the boring parts_
 ```
-
-</td>
-</tr>
-</table>
 
 <!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
 ## 🧰 `~/tech-stack`
