@@ -1,5 +1,10 @@
-<!-- ═══════════════════════  HACKER BANNER  ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:022c14,100:00FF41&text=Tanisha%20Garg&fontSize=54&fontColor=39FF14&animation=twinkling&fontAlignY=36&desc=%3E_%20Full-Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Hacker&descSize=18&descAlignY=58"/>
+<!-- ═══════════════════════  MATRIX HERO  ═══════════════════════ -->
+<p align="center">
+  <img width="100%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="matrix code rain" />
+</p>
+
+<h1 align="center">👩‍💻 Tanisha Garg</h1>
+<h3 align="center">💚 Full-Stack Developer · AI &amp; Cloud Hacker 💚</h3>
 
 <!-- ═══════════════════════  TERMINAL BOOT  ═══════════════════════ -->
 <p align="center">
@@ -118,11 +123,14 @@ tanisha@github:~$ neofetch
 </p>
 
 <!-- ═══════════════════════  DEV QUOTE  ═══════════════════════ -->
-## 💡 `~/quote --random`
+## 💡 `~/quote`
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote" />
-</p>
+```console
+root@tanisha:~$ cat philosophy.txt
+> "First, solve the problem. Then, write the code."
+> Talk is cheap — I ship. Then I automate the boring parts.
+root@tanisha:~$ _
+```
 
 <!-- ═══════════════════════  SNAKE  ═══════════════════════ -->
 <p align="center">
