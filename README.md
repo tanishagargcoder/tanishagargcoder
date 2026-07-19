@@ -1,5 +1,5 @@
 <!-- ═══════════════════════  BANNER  ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:043b1a,100:00c853&text=Tanisha%20Garg&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Engineer&descSize=18&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:043b1a,100:00c853&text=Tanisha%20Garg&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Engineer&descSize=18&descAlignY=60"/>
 
 <!-- ═══════════════════════  TERMINAL BOOT  ═══════════════════════ -->
 <p align="center">
@@ -104,15 +104,12 @@ tanisha@github:~$ neofetch
   <img src="https://img.shields.io/badge/🌐_GSSoC_'25-Contributor-00FF41?style=for-the-badge&labelColor=0d1117"/>
 </p>
 
-<!-- ═══════════════════════  DEV QUOTE  ═══════════════════════ -->
-## 💡 `~/quote`
+<!-- ═══════════════════════  QUOTE  ═══════════════════════ -->
+## 💡 Favorite Quote
 
-```console
-root@tanisha:~$ cat philosophy.txt
-> "First, solve the problem. Then, write the code."
-> Talk is cheap — I ship. Then I automate the boring parts.
-root@tanisha:~$ _
-```
+> ### "First, solve the problem. Then, write the code."
+>
+> *Talk is cheap — I ship, then I automate the boring parts.* ⚡
 
 <!-- ═══════════════════════  SNAKE  ═══════════════════════ -->
 <p align="center">
