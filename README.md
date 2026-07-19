@@ -15,35 +15,24 @@
 </p>
 
 <!-- ═══════════════════════  ABOUT  ═══════════════════════ -->
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<img align="right" width="40%" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="dev illustration" />
 
-```typescript
-const tanisha = {
-  role:      "Full-Stack Dev & AI/Cloud Engineer",
-  education: "CS @ Bennett University (SCSET)",
-  stack:     ["Next.js", "FastAPI", "Node", "AWS"],
-  focus:     ["AI Agents", "Cloud DevOps", "Web Apps"],
-  building:  "CloudPilot AI 🛰️",
-  motto:     "Ship real things. Automate the rest.",
-};
+> ### *"Ship real things. Automate the boring parts."* ⚡
+
+🌸 &nbsp; Hey, I'm **Tanisha** — a CS undergrad @ **Bennett University** who turns ideas into products that *actually run in production*.
+
+```yaml
+🛰️  building:   CloudPilot AI — AI agents that auto-fix cloud incidents
+🧠  obsessed:   LLMs · agent pipelines · cloud automation
+🌐  fullstack:  Next.js · FastAPI · Node · AWS
+🏆  roles:      GSSoC '25 Contributor · Secretary General @ Technotix BU
+🎯  2026 goal:  ship AI products that make DevOps effortless
+☕  fun fact:   my best code compiles at 2 AM, fueled by chai
 ```
 
-- 🧠 I build **AI agents** that detect, diagnose & auto-remediate cloud incidents
-- ⚡ Full-stack: **Next.js · React · FastAPI · Node/Express · MongoDB · Firebase**
-- ☁️ Hands-on with **AWS (EC2, CloudWatch, boto3)** & real-time monitoring
-- 🤝 GSSoC '25 Contributor · Secretary General, Technotix BU
-- 💬 Ask me about **LLM integrations, agent pipelines & shipping side-projects live**
-
-</td>
-<td width="42%" valign="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="coding animation" />
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
 ## 🛠️ Tech Stack
@@ -106,6 +95,32 @@ const tanisha = {
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanishagargcoder&bg_color=0d1117&color=22D3EE&line=8B5CF6&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<!-- ═══════════════════════  PROFILE SUMMARY  ═══════════════════════ -->
+## 🧬 Profile Summary
+
+<p align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishagargcoder&theme=github_dark" />
+</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanishagargcoder&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanishagargcoder&theme=github_dark" />
+</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanishagargcoder&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanishagargcoder&theme=github_dark&utcOffset=5.5" />
+</p>
+
+<!-- ═══════════════════════  ACHIEVEMENTS  ═══════════════════════ -->
+## 🏆 Highlights & Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_Project_Showcase_Winner-'24-FFD700?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🎮_Google_Arcade-Champion-4285F4?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🏠_SheBuilds_'25-VLIV_Finalist-EC4899?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🌐_GSSoC_'25-Contributor-22D3EE?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/👑_Technotix_BU-Secretary_General-8B5CF6?style=for-the-badge&labelColor=0d1117"/>
 </p>
 
 <!-- ═══════════════════════  DEV QUOTE  ═══════════════════════ -->
