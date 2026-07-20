@@ -1,16 +1,16 @@
 <!-- ═══════════════════════  BANNER  ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:043b1a,100:00c853&text=Tanisha%20Garg&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Cloud%20Engineer&descSize=18&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,50:414868,100:70a5fd&text=Tanisha%20Garg&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Cloud%20Engineer&descSize=18&descAlignY=60"/>
 
 <!-- ═══════════════════════  TERMINAL BOOT  ═══════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=720&lines=%24+whoami+-%3E+Tanisha+Garg;%24+role+-%3E+Full-Stack+Dev+%2B+AI%2FCloud+Engineer;%24+sudo+make+coffee+%26%26+code;root%40tanisha%3A~%24+deploy+--to+production+%F0%9F%9A%80" alt="Terminal typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=720&lines=%24+whoami+-%3E+Tanisha+Garg;%24+role+-%3E+Full-Stack+Dev+%2B+AI%2FCloud+Engineer;%24+sudo+make+coffee+%26%26+code;root%40tanisha%3A~%24+deploy+--to+production+%F0%9F%9A%80" alt="Terminal typing" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tanisha-garg-a2b32b281/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117"/></a>
-  <a href="mailto:tanishagarg1208@gmail.com"><img src="https://img.shields.io/badge/Email-Ping_me-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117"/></a>
-  <a href="https://tanishagargcoder.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore-00FF41?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117"/></a>
-  <img src="https://komarev.com/ghpvc/?username=tanishagargcoder&label=Visitors&color=00FF41&style=for-the-badge" alt="views"/>
+  <a href="https://www.linkedin.com/in/tanisha-garg-a2b32b281/"><img src="https://img.shields.io/badge/LinkedIn-Connect-70A5FD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/></a>
+  <a href="mailto:tanishagarg1208@gmail.com"><img src="https://img.shields.io/badge/Email-Ping_me-BF91F3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/></a>
+  <a href="https://tanishagargcoder.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore-38BDAE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27"/></a>
+  <img src="https://komarev.com/ghpvc/?username=tanishagargcoder&label=Visitors&color=70a5fd&style=for-the-badge" alt="views"/>
 </p>
 
 <!-- ═══════════════════════  NEOFETCH ABOUT  ═══════════════════════ -->
@@ -57,10 +57,10 @@ tanisha@github:~$ neofetch
 
 <p align="center"><code>&gt; AI &amp; LLMs</code></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Gemini-00FF41?style=for-the-badge&logo=googlegemini&logoColor=black&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Mistral_AI-00FF41?style=for-the-badge&logo=mistralai&logoColor=black&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Ollama-00FF41?style=for-the-badge&logo=ollama&logoColor=black&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/OpenCV-00FF41?style=for-the-badge&logo=opencv&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Gemini-70A5FD?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/Mistral_AI-BF91F3?style=for-the-badge&logo=mistralai&logoColor=white&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/Ollama-38BDAE?style=for-the-badge&logo=ollama&logoColor=white&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/OpenCV-70A5FD?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1b27"/>
 </p>
 
 <!-- ═══════════════════════  FEATURED PROJECTS  ═══════════════════════ -->
@@ -78,37 +78,37 @@ tanisha@github:~$ neofetch
 ## 📟 `~/git-stats`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishagargcoder&show_icons=true&hide_border=true&count_private=true&title_color=00FF41&icon_color=39FF14&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=tanishagargcoder&hide_border=true&background=0d1117&stroke=00FF41&ring=39FF14&fire=00FF41&currStreakLabel=39FF14&sideNums=c9d1d9&currStreakNum=00FF41&dates=8b949e&sideLabels=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishagargcoder&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=tanishagargcoder&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishagargcoder&layout=compact&hide_border=true&langs_count=10&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishagargcoder&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=tanishagargcoder&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=tanishagargcoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanishagargcoder&bg_color=0d1117&color=00FF41&line=39FF14&point=ffffff&area=true&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanishagargcoder&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </p>
 
 <!-- ═══════════════════════  ACHIEVEMENTS  ═══════════════════════ -->
 ## 🏆 `~/achievements`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆_Project_Showcase-Winner_'24-00FF41?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/🎮_Google_Arcade-Champion-00FF41?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/🏠_SheBuilds_'25-VLIV_Finalist-00FF41?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/🌐_GSSoC_'25-Contributor-00FF41?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🏆_Project_Showcase-Winner_'24-70A5FD?style=for-the-badge&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/🎮_Google_Arcade-Champion-BF91F3?style=for-the-badge&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/🏠_SheBuilds_'25-VLIV_Finalist-38BDAE?style=for-the-badge&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/🌐_GSSoC_'25-Contributor-70A5FD?style=for-the-badge&labelColor=1a1b27"/>
 </p>
 
 <!-- ═══════════════════════  QUOTE  ═══════════════════════ -->
 ## 💡 Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Quote of the Day" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
 </p>
 
 <!-- ═══════════════════════  SNAKE  ═══════════════════════ -->
@@ -118,4 +118,4 @@ tanisha@github:~$ neofetch
 
 <p align="center"><i>root@tanisha:~$ <b>echo "let's build something that ships."</b> ⚡</i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00FF41,50:022c14,100:000000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:70a5fd,50:414868,100:1a1b27"/>
