@@ -1,6 +1,11 @@
 <!-- ═══════════════════════  BANNER  ═══════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,50:414868,100:70a5fd&text=Tanisha%20Garg&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Cloud%20Engineer&descSize=18&descAlignY=60"/>
 
+<!-- ═══════════════════════  HERO ANIMATION  ═══════════════════════ -->
+<p align="center">
+  <img width="440" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="coder animation" />
+</p>
+
 <!-- ═══════════════════════  TERMINAL BOOT  ═══════════════════════ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=720&lines=%24+whoami+-%3E+Tanisha+Garg;%24+role+-%3E+Full-Stack+Dev+%2B+AI%2FCloud+Engineer;%24+sudo+make+coffee+%26%26+code;root%40tanisha%3A~%24+deploy+--to+production+%F0%9F%9A%80" alt="Terminal typing" />
@@ -14,7 +19,7 @@
 </p>
 
 <!-- ═══════════════════════  NEOFETCH ABOUT  ═══════════════════════ -->
-## 💻 `~/about-me`
+## 💻 About Me
 
 ```bash
 tanisha@github:~$ neofetch
@@ -33,29 +38,29 @@ tanisha@github:~$ neofetch
 ```
 
 <!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
-## 🧰 `~/tech-stack`
+## 🧰 Tech Stack
 
-<p align="center"><code>&gt; Languages</code></p>
+<p align="center"><b>Languages</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark" />
 </p>
 
-<p align="center"><code>&gt; Frontend</code></p>
+<p align="center"><b>Frontend</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" />
 </p>
 
-<p align="center"><code>&gt; Backend &amp; Databases</code></p>
+<p align="center"><b>Backend &amp; Databases</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,firebase&theme=dark" />
 </p>
 
-<p align="center"><code>&gt; Cloud · DevOps · Tools</code></p>
+<p align="center"><b>Cloud · DevOps · Tools</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github,postman,figma&theme=dark" />
 </p>
 
-<p align="center"><code>&gt; AI &amp; LLMs</code></p>
+<p align="center"><b>AI &amp; LLMs</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Gemini-70A5FD?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=1a1b27"/>
   <img src="https://img.shields.io/badge/Mistral_AI-BF91F3?style=for-the-badge&logo=mistralai&logoColor=white&labelColor=1a1b27"/>
@@ -64,7 +69,7 @@ tanisha@github:~$ neofetch
 </p>
 
 <!-- ═══════════════════════  FEATURED PROJECTS  ═══════════════════════ -->
-## 🚀 `~/projects`
+## 🚀 Featured Projects
 
 | Project | What it does | Stack | Links |
 | :------ | :----------- | :---- | :--: |
@@ -75,7 +80,7 @@ tanisha@github:~$ neofetch
 | **📡 JSON Telemetry Unifier** | Python tool that normalizes messy telemetry from multiple sources into one schema | `Python` | [Code](https://github.com/tanishagargcoder/json-telemetry-unifier) |
 
 <!-- ═══════════════════════  GITHUB STATS  ═══════════════════════ -->
-## 📟 `~/git-stats`
+## 📟 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishagargcoder&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
@@ -95,7 +100,7 @@ tanisha@github:~$ neofetch
 </p>
 
 <!-- ═══════════════════════  ACHIEVEMENTS  ═══════════════════════ -->
-## 🏆 `~/achievements`
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏆_Project_Showcase-Winner_'24-70A5FD?style=for-the-badge&labelColor=1a1b27"/>
