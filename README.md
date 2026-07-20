@@ -1,5 +1,5 @@
 <!-- ═══════════════════════  BANNER  ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:043b1a,100:00c853&text=Tanisha%20Garg&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Engineer&descSize=18&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:043b1a,100:00c853&text=Tanisha%20Garg&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Cloud%20Engineer&descSize=18&descAlignY=60"/>
 
 <!-- ═══════════════════════  TERMINAL BOOT  ═══════════════════════ -->
 <p align="center">
@@ -105,11 +105,11 @@ tanisha@github:~$ neofetch
 </p>
 
 <!-- ═══════════════════════  QUOTE  ═══════════════════════ -->
-## 💡 Favorite Quote
+## 💡 Quote of the Day
 
-> ### "First, solve the problem. Then, write the code."
->
-> *Talk is cheap — I ship, then I automate the boring parts.* ⚡
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Quote of the Day" />
+</p>
 
 <!-- ═══════════════════════  SNAKE  ═══════════════════════ -->
 <p align="center">
