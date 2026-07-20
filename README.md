@@ -21,21 +21,14 @@
 <!-- ═══════════════════════  NEOFETCH ABOUT  ═══════════════════════ -->
 ## 💻 About Me
 
-```bash
-tanisha@github:~$ neofetch
-    ──────────────────────────────────────────────
-    OS........: Human v22 (Coder Edition)
-    HOST......: Bennett University · SCSET
-    KERNEL....: Full-Stack + AI/Cloud
-    SHELL.....: bash / zsh / pure vibes
-    EDITOR....: VS Code @ 2AM ☕
-    ──────────────────────────────────────────────
-    LANGUAGES.: JavaScript · TypeScript · Python · C++
-    BUILDING..: CloudPilot AI 🛰️  (AI agents that auto-fix cloud incidents)
-    FOCUS.....: LLMs · agent pipelines · cloud automation
-    ROLES.....: GSSoC '25 · Secretary General @ Technotix BU
-    MOTTO.....: > ship real things, automate the boring parts_
-```
+🌸 Hi, I'm **Tanisha** — a CS undergrad at **Bennett University (SCSET)** who loves turning ideas into products that actually run in production.
+
+- 🛰️ Currently building **CloudPilot AI** — AI agents that detect, diagnose and auto-fix cloud incidents
+- 🧠 Deep into **LLMs, agent pipelines and cloud automation**
+- 💻 Full-stack across **Next.js · React · FastAPI · Node · MongoDB · AWS**
+- 🏆 **GSSoC '25** Contributor · **Secretary General** @ Technotix BU
+- 🗣️ Languages I write in: **JavaScript · TypeScript · Python · C++**
+- ☕ Fun fact: my best code compiles at 2 AM, fueled by chai
 
 <!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
 ## 🧰 Tech Stack
@@ -83,16 +76,7 @@ tanisha@github:~$ neofetch
 ## 📟 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishagargcoder&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=tanishagargcoder&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishagargcoder&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=tanishagargcoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=tanishagargcoder&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -121,6 +105,6 @@ tanisha@github:~$ neofetch
   <img src="https://raw.githubusercontent.com/tanishagargcoder/tanishagargcoder/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-<p align="center"><i>root@tanisha:~$ <b>echo "let's build something that ships."</b> ⚡</i></p>
+<p align="center"><i>Let's build something that ships. ⚡</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:70a5fd,50:414868,100:1a1b27"/>
